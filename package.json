@@ -1,0 +1,35 @@
+{
+  "name": "pinia-system-messages-store",
+  "version": "0.0.1",
+  "description": "Pinia System Messages Store.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "npx standard",
+    "lint-fix": "npx standard --fix",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyulanemeth/pinia-system-messages-store.git"
+  },
+  "keywords": [
+    "vue",
+    "pinia",
+    "system",
+    "message",
+    "error",
+    "warning",
+    "info",
+    "success"
+  ],
+  "bugs": {
+    "url": "https://github.com/gyulanemeth/pinia-system-messages-store/issues"
+  },
+  "homepage": "https://github.com/gyulanemeth/pinia-system-messages-store#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "author": "GYN",
+  "license": "MIT"
+}
